@@ -1,5 +1,5 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-### NAME: YASWANT KUMAR AS
+### NAME: YASWANTH KUMAR AS
 ### REG NO: 212224230310
 ## Aim:
 To move the files between virtual machine.
